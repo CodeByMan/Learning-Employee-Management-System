@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Employee LEMS</h1>
+<h1 align="center">🎓 Learning and Employee Management System</h1>
 
 <p align="center">
   <b>A secure Laravel learner and employee management system with role-based dashboards, QR attendance, managed registration, announcements, email communication, and administrative audit logs.</b>
@@ -21,7 +21,7 @@
 |---|---|
 | <img src="docs/screenshots/landing%20page.png" alt="Employee LEMS landing page" width="100%" /> | <img src="docs/screenshots/login.png" alt="Employee LEMS login page" width="100%" /> |
 
-| Administration Dashboard | QR Attendance |
+| Admin Dashboard | QR Attendance |
 |---|---|
 | <img src="docs/screenshots/dashboard.png" alt="Employee LEMS administration dashboard" width="100%" /> | <img src="docs/screenshots/attendence.png" alt="Employee LEMS QR attendance page" width="100%" /> |
 
