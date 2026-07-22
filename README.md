@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="public/images/logo.svg" alt="Employee LEMS Logo" width="110" />
-</p>
-
 <h1 align="center">🎓 Employee LEMS</h1>
 
 <p align="center">
